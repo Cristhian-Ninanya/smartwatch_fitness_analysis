@@ -120,7 +120,7 @@ df_smart:
 * Tuesdays exhibit high levels of activity among all individuals in the dataset, consistently showcasing the highest average calorie expenditure.
 
 
-**Final Observations:**
+## Final Observations:
 
 * The higher the number of Very Active Minutes (vigorous physical activity), the higher the number of calories burned in a day.
 
